@@ -1,7 +1,0 @@
-{
-  "name": "giflist",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
